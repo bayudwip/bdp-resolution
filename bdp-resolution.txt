@@ -1,4 +1,4 @@
 BDP RESOLUTION
 -Consistent studying coding with WPU
--Studying HTML & CSS
 -Planning create website e-commerce with HTML &CSS
+-Creating aplication mobile with java language
